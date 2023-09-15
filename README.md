@@ -6,8 +6,6 @@
 
 I'm passionate about software development and I'm looking forward to getting to work on new projects in the near future. Currently I'm a student at the University of Westminster in Software Engineering.
 
-Skills: JAVA / PHP / JS / HTML / CSS
-
 - 🔭 I’m currently working on University of Westminster. 
 - 🌱 I’m currently learning PHP, JS.
 - 💬 Contact me on manuja.20221454@iit.ac.lk or +94716456837
@@ -15,8 +13,8 @@ Skills: JAVA / PHP / JS / HTML / CSS
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manuja-guruge-94a19b276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuja-guruge-94a19b276/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100083157927007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100083157927007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manujaguruge12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuja-guruge-94a19b276/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100083157927007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100083157927007" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mr._manu_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr._manu_03/" height="30" width="40" /></a>
 </p> 
 
