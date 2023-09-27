@@ -8,8 +8,7 @@ I'm passionate about software development and I'm looking forward to getting to 
 
 - 🔭 I’m currently working on University of Westminster. 
 - 🌱 I’m currently learning PHP, JS.
-- 💬 Contact me on manuja.20221454@iit.ac.lk or +94716456837
-
+- 💬 Contact me on manuja.20221454@iit.ac.lk or manujagureu@gmail.com
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
