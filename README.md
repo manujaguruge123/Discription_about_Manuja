@@ -2,7 +2,6 @@
 #### A Professional Software Engineer from Sri Lanka
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manujaguruge123&label=Profile%20views&color=0e75b6&style=flat" alt="manujaguruge123" /> </p>
   
-<h2>Professional Software Engineer from Sri Lanka</h2>
 
 I'm passionate about software development and I'm looking forward to getting to work on new projects in the near future. Currently I'm a student at the University of Westminster in Software Engineering.
 
