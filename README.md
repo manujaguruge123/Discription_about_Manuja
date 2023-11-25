@@ -27,7 +27,7 @@ I'm passionate about software development and I'm looking forward to getting to 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=manujaguruge123)  
 
 
-![GitHub metrics](https://metrics.lecoq.io/manujaguruge123)  
+
 
 
 
