@@ -2,7 +2,7 @@
 #### A Professional Software Engineer from Sri Lanka
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manujaguruge123&label=Profile%20views&color=0e75b6&style=flat" alt="manujaguruge123" /> </p>
   
-![Professional Software Engineer from Sri Lanka]([https://media.licdn.com/dms/image/D5616AQGvYy_u3tYzyA/profile-displaybackgroundimage-shrink_350_1400/0/1686865653829?e=1700092800&v=beta&t=nxoKE7_lfEyb10XgfCY9MCcqIg-FiiJPlfkr9cphtkc](https://media.licdn.com/dms/image/D5616AQGvYy_u3tYzyA/profile-displaybackgroundimage-shrink_350_1400/0/1686865656905?e=1706140800&v=beta&t=h8fk2wZOYJpctriZCUCXcXShl5HjT8YFQzGH_yongMM))
+<h2>Professional Software Engineer from Sri Lanka</h2>
 
 I'm passionate about software development and I'm looking forward to getting to work on new projects in the near future. Currently I'm a student at the University of Westminster in Software Engineering.
 
