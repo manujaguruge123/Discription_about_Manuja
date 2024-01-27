@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Manuja Guruge
 #### A Professional Software Engineer from Sri Lanka
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manujaguruge123&label=Profile%20views&color=0e75b6&style=flat" alt="manujaguruge123" /> </p>
-<img align="right" alt="Github Coding" width="270"  src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">  
+<img align="right" alt="Github Coding" width="250"  src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">  
 
 I'm passionate about software development and I'm looking forward to getting to work on new projects in the near future. Currently I'm a student at the University of Westminster in Software Engineering.
 
