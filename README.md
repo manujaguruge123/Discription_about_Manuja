@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)]
+![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
 ### Hi there 👋, I'm Manuja Guruge
 #### A Professional Software Engineer from Sri Lanka
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manujaguruge123&label=Profile%20views&color=0e75b6&style=flat" alt="manujaguruge123" /> </p>
