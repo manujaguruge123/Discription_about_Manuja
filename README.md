@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=089AF7&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Manuja+Guruge;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=09C2F7&random=false&width=435&lines=Hi+there%F0%9F%91%8B%2CI'm+Manuja+Guruge;Software+Engineer.)](https://git.io/typing-svg)
 #### A Professional Software Engineer from Sri Lanka
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manujaguruge123&label=Profile%20views&color=0e75b6&style=flat" alt="manujaguruge123" /> </p>
 <img align="right" alt="Github Coding" width="250"  src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">  
