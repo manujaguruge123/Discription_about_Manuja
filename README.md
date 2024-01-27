@@ -1,5 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10F7DD&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C;I'm+Manuja+Guruge)](https://git.io/typing-svg)
 ### Hi there 👋, I'm Manuja Guruge
 #### A Professional Software Engineer from Sri Lanka
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manujaguruge123&label=Profile%20views&color=0e75b6&style=flat" alt="manujaguruge123" /> </p>
