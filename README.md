@@ -7,7 +7,7 @@
 I'm passionate about software development and I'm looking forward to getting to work on new projects in the near future. Currently I'm a student at the University of Westminster in Software Engineering.
 
 - 🔭 I’m currently studing at University of Westminster. 
-- 🌱 I’m currently learning PHP, JS.
+- 🌱 I’m currently learning PHP, React JS.
 - 💬 Contact me on manuja.20221454@iit.ac.lk or manujaguru@gmail.com
 
 <h3 align="left">Connect with me :</h3>
