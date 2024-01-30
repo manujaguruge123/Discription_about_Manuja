@@ -27,6 +27,7 @@ I'm passionate about software development and I'm looking forward to getting to 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manujaguruge123&show_icons=true&locale=en&layout=compact" alt="manujaguruge123" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manujaguruge123&show_icons=true&locale=en" alt="manujaguruge123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manujaguruge123&" alt="manujaguruge123" /></p>
 
